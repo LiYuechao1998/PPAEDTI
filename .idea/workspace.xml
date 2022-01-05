@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2910bded-310c-40d3-be56-baaa76d6737a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wi61HmoC78U7vxv2wyye8qni74" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\实验\MySelf\YA.Huang\对比1\代码\Fin\图神经网络处理数据集(李月超)Fin\data\HGBI" />
+      <recent name="C:\Users\Administrator\Desktop\实验\MySelf\YA.Huang\对比1\代码\Fin\图神经网络处理数据集(李月超)Fin\data\DrugBank_Approved" />
+      <recent name="C:\Users\Administrator\Desktop\实验\MySelf\YA.Huang\对比1\代码\图神经网络处理数据集(李月超)修改版 - 副本" />
+      <recent name="C:\Users\Administrator\Desktop\实验\MySelf\YA.Huang\对比1\代码\图神经网络处理数据集(李月超)修改版" />
+      <recent name="C:\Users\Administrator\Desktop\实验\MySelf\YA.Huang\对比1\代码\图神经网络处理数据集(李月超)" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="AA (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GAEMDA-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GAEMDA-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataSet/关系对处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataSet/关系对处理/AA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GAEMDA-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="txt_csv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GAEMDA-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataSet/关系对处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataSet/关系对处理/txt_csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="txt_csv2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GAEMDA-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataSet/关系对处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataSet/关系对处理/txt_csv2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.AA (1)" />
+        <item itemvalue="Python.AA" />
+        <item itemvalue="Python.txt_csv" />
+        <item itemvalue="Python.txt_csv2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2910bded-310c-40d3-be56-baaa76d6737a" name="Default Changelist" comment="" />
+      <created>1628928844946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628928844946</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="51" key="FileChooserDialogImpl" timestamp="1640228807153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="502" y="51" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1640228807153" />
+    <state width="1515" height="434" key="GridCell.Tab.0.bottom" timestamp="1641355791184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="434" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1641355791184" />
+    <state width="1515" height="434" key="GridCell.Tab.0.center" timestamp="1641355791184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="434" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1641355791184" />
+    <state width="1515" height="434" key="GridCell.Tab.0.left" timestamp="1641355791184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="434" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1641355791184" />
+    <state width="1515" height="434" key="GridCell.Tab.0.right" timestamp="1641355791184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="434" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1641355791184" />
+    <state width="1515" height="474" key="GridCell.Tab.1.bottom" timestamp="1633778947613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="474" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1633778947613" />
+    <state width="1515" height="474" key="GridCell.Tab.1.center" timestamp="1633778947613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="474" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1633778947613" />
+    <state width="1515" height="474" key="GridCell.Tab.1.left" timestamp="1633778947613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="474" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1633778947613" />
+    <state width="1515" height="474" key="GridCell.Tab.1.right" timestamp="1633778947613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="474" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1633778947613" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1637465761576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1637465761576" />
+    <state x="499" y="23" width="642" height="801" key="find.popup" timestamp="1634525495959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="23" width="642" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1634525495959" />
+  </component>
+</project>
